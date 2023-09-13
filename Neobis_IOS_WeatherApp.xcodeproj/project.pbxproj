@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B01C77152AB2145B00C4A283 /* CollectionCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01C77142AB2145B00C4A283 /* CollectionCellView.swift */; };
+		B04AB3982AB2051F001890D9 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04AB3972AB2051F001890D9 /* CustomView.swift */; };
 		B06E77252AA48D10003D759A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06E77242AA48D10003D759A /* AppDelegate.swift */; };
 		B06E77272AA48D10003D759A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06E77262AA48D10003D759A /* SceneDelegate.swift */; };
 		B06E77292AA48D10003D759A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06E77282AA48D10003D759A /* ViewController.swift */; };
@@ -25,6 +27,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B01C77142AB2145B00C4A283 /* CollectionCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionCellView.swift; sourceTree = "<group>"; };
+		B04AB3972AB2051F001890D9 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 		B06E77212AA48D10003D759A /* Neobis_IOS_WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Neobis_IOS_WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B06E77242AA48D10003D759A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B06E77262AA48D10003D759A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,7 +81,9 @@
 				B06E77242AA48D10003D759A /* AppDelegate.swift */,
 				B06E77262AA48D10003D759A /* SceneDelegate.swift */,
 				B06E77282AA48D10003D759A /* ViewController.swift */,
+				B01C77142AB2145B00C4A283 /* CollectionCellView.swift */,
 				B06E773C2AA48DB6003D759A /* BaseController.swift */,
+				B04AB3972AB2051F001890D9 /* CustomView.swift */,
 				B06E77402AA4AAAF003D759A /* WANetworkWeatherManager.swift */,
 				B06E77442AA4AB31003D759A /* WACurrentWeather.swift */,
 				B06E77422AA4AADC003D759A /* WACurrentWeatherData.swift */,
@@ -178,7 +184,9 @@
 				B06E77252AA48D10003D759A /* AppDelegate.swift in Sources */,
 				B06E77472AA4ABF5003D759A /* extensionViewController.swift in Sources */,
 				B0E45D5B2AAE078E00463E98 /* WACurrentWeatherDataWeek.swift in Sources */,
+				B01C77152AB2145B00C4A283 /* CollectionCellView.swift in Sources */,
 				B06E773D2AA48DB6003D759A /* BaseController.swift in Sources */,
+				B04AB3982AB2051F001890D9 /* CustomView.swift in Sources */,
 				B06E77412AA4AAAF003D759A /* WANetworkWeatherManager.swift in Sources */,
 				B06E77272AA48D10003D759A /* SceneDelegate.swift in Sources */,
 			);
